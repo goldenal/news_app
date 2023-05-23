@@ -1,3 +1,8 @@
+
+![Screenshot 2023-05-23 at 2 30 34 PM](https://github.com/goldenal/news_app/assets/31850119/064ca6c0-aacd-402b-a05c-ab96605b9299)
+![Screenshot 2023-05-23 at 2 30 39 PM](https://github.com/goldenal/news_app/assets/31850119/ff92ba5d-2382-4f32-8063-f1cbd961f200)
+
+
 # newsapp
 
 The Flutter news project(This project was built with Flutter 3.10.1 • channel stable  and Tools • Dart 3.0.1 • DevTools 2.23.1).
