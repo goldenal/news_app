@@ -91,7 +91,7 @@ class _HomepageState extends State<Homepage> {
                     mainAxisAlignment: MainAxisAlignment.start,
                     children: [
                       Text(
-                        "Top 10",
+                        "Top Stories",
                         style: TextStyle(
                             fontSize: 20.sp,
                             fontWeight: FontWeight.w600,
@@ -111,7 +111,7 @@ class _HomepageState extends State<Homepage> {
                         width: 16.w,
                       ),
                       Text(
-                        "Business",
+                        "Programming",
                         style: TextStyle(
                             fontSize: 20.sp,
                             fontWeight: FontWeight.w300,
